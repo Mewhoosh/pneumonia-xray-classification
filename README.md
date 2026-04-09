@@ -4,6 +4,9 @@ Binary classification of chest X-ray images (Normal vs Pneumonia) using PyTorch.
 Three architectures are compared: a lightweight CNN trained from scratch, ResNet18
 with a frozen backbone, and ResNet18 with partial fine-tuning.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kHhBPyZEWoFn33XFkOu1uTcuElJCiuzp?usp=sharing)
+
+
 **Dataset:** [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 — 5,863 labeled JPEGs split into train / val / test.
 
